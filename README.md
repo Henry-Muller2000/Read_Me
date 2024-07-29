@@ -2,7 +2,7 @@
 
 Hi Github,
 
-I am a technical recruiter at BlockHunters Group, the preferred recruiting partner for Galaxay Ventures. 
+I am a technical recruiter at BlockHunters Group, the preferred recruiting partner for Galaxy Ventures. 
 
 I use this account to find talented engineers - mostly Solidity and Rust. 
 
