@@ -1,6 +1,6 @@
 # Read_Me
 
-Hello,
+Hi Github,
 
 I am a technical recruiter at BlockHunters Group, the preferred recruiting partner for Galaxay Ventures. 
 
